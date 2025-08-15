@@ -1,0 +1,28 @@
+/*font-size: 80px;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 9;
+  padding: 0 48px;
+
+  background: linear-gradient(
+    to right,
+    rgb(red) 0%,
+    rgb(yellow) 16%,
+    rgb(red) 32%
+  );
+
+  background-clip: text;
+  background-position: -40px;
+}
+
+.shinytext-container:hover .shinytext {
+  animation: shineText 2000ms infinite;
+}
+
+@keyframes shineText {
+  to {
+    background-position: 240px;
+  }
+}
+*/
